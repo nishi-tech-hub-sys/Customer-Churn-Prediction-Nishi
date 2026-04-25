@@ -90,5 +90,5 @@ https://customer-churn-project-z37dsuvmk3jgkq42hhhsp4.streamlit.app/
 
 ## Author
 
-Name: Rutvi Patel
+Name: Nishi Patel
 
