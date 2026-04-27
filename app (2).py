@@ -6,7 +6,7 @@ import pandas as pd
 model = pickle.load(open("model.pkl", "rb"))
 columns = pickle.load(open("columns.pkl", "rb"))
 
-st.title("Customer Churn Prediction")
+st.title("Customer Churn Prediction - Nishi Patel")
 
 st.write("Enter customer details:")
 
