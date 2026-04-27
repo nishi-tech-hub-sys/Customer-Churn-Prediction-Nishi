@@ -4,7 +4,7 @@ import numpy as np
 
 model = pickle.load(open('model.pkl', 'rb'))
 
-st.title("Customer Churn Prediction")
+st.title("Customer Churn Prediction - Nishi Patel")
 
 st.write("Enter basic customer details:")
 
