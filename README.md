@@ -85,7 +85,8 @@ This project helped me understand how machine learning can be applied to real-wo
 
 ## Live Application
 
-You can try the project here:  
+You can try the project here:
+https://customer-churn-prediction-nishi-kgcy3sx9bbrkpp9ksj6npx.streamlit.app/
 
 
 ## Author
